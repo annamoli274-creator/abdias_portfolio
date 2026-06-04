@@ -58,7 +58,7 @@ const Hero = () => {
         <p className="mt-6 text-sm text-primary uppercase tracking-[0.3em]">
           React • Next.js • React Native • Node.js
         </p>
-        
+        <a href="/CV_ABDIAS.pdf" download className="mt-4 inline-block bg-primary hover:bg-indigo-600 text-white font-medium py-2 px-4 rounded-md transition-colors">Télécharger CV</a>
         <div className="absolute bottom-10 animate-bounce">
           <svg className="w-6 h-6 text-gray-400" fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" stroke="currentColor">
             <path d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
