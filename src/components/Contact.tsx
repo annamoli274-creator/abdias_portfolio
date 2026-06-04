@@ -77,7 +77,7 @@ const Contact = () => {
                   <a href="https://github.com/Abdias-ag" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors mt-1">GitHub Secondaire (Abdias-ag)</a>
                   <a href="https://github.com/annamoli274-creator" target="_blank" rel="noreferrer" className="hover:text-primary transition-colors mt-1">Troisieme compte GitHub  (annamoli274-creator)</a>
                 </div>
-                <a href="/cv.pdf" download className="mt-4 inline-block bg-primary hover:bg-indigo-600 text-white font-medium py-2 px-4 rounded-md transition-colors">Télécharger CV</a>
+               
               </div>
             </div>
           </div>
