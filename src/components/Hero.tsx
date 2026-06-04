@@ -48,7 +48,7 @@ const Hero = () => {
         </Canvas>
       </div>
       
-      <div className="absolute inset-0 z-10 flex flex-col items-center justify-center text-center px-4 pointer-events-none">
+      <div className="absolute inset-0 z-10 flex flex-col items-center justify-center text-center px-4 ">
         <h1 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight text-white drop-shadow-lg">
           ABDIAS AZIFAN
         </h1>
